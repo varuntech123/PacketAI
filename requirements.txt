@@ -1,0 +1,12 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+requests==2.31.0
+SQLAlchemy==2.0.23
+Werkzeug==3.0.1
+Jinja2==3.1.2
+itsdangerous==2.1.2
+click==8.1.7
+blinker==1.7.0
+greenlet==3.0.1
+# Note: Wireshark (tshark) must be installed on the host system.
+# Local LLM (Ollama) is recommended for AI features.
